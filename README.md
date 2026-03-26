@@ -16,8 +16,6 @@
 - Create **contactsbook** directory in your local system
 - clone the poject in contactsbook directory
 
-`git clone https://github.com/pankajibn/contacts-book-php.git`
-
 - If you do not have git, you can download as zip.
 
 - Create Mysql Database
