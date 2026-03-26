@@ -19,16 +19,16 @@ include_once 'common/alert_message.php';
 <form method="POST" action="<?php echo SITEURL . 'actions/singup_action.php'; ?>">
 	<div class="form-row">
 		<div class="col form-group">
-			<label>First name </label>
+			<label>First Name </label>
 		  	<input type="text" name="fname" class="form-control" placeholder="First Name">
 		</div> <!-- form-group end.// -->
 		<div class="col form-group">
-			<label>Last name</label>
+			<label>Last Name</label>
 		  	<input type="text" name="lname" class="form-control" placeholder="Last Name">
 		</div> <!-- form-group end.// -->
 	</div> <!-- form-row end.// -->
 	<div class="form-group">
-		<label>Email address</label>
+		<label>Email Address</label>
 		<input type="text" name="email" class="form-control" placeholder="">
 		<small class="form-text text-muted">We'll never share your email with anyone else.</small>
 	</div>

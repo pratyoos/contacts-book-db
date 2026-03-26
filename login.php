@@ -24,7 +24,7 @@ include_once 'common/alert_message.php';
 	</div>
 	<div class="form-group">
 		<label>Password</label>
-	    <input class="form-control" type="password" name="password" placeholder="password">
+	    <input class="form-control" type="password" name="password" placeholder="Password">
 	</div>
     <div class="form-group">
         <button type="submit" name="submit" class="btn btn-success btn-block"> Login  </button>

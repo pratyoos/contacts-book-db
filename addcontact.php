@@ -67,11 +67,11 @@ unset($_SESSION['errors']);
 	</div>
 	<div class="form-group">
 		<label>Email Address</label>
-		<input type="email" name="email" value="<?php echo $email; ?>" class="form-control" placeholder="Email">
+		<input type="email" name="email" value="<?php echo $email; ?>" class="form-control" placeholder="Email Address">
 	</div>
 	<div class="form-group">
 		<label>Phone No.</label>
-		<input type="text" name="phone" value="<?php echo $phone; ?>"  class="form-control" placeholder="Contact">
+		<input type="text" name="phone" value="<?php echo $phone; ?>"  class="form-control" placeholder="Phone Number">
 	</div>
 	<div class="form-group">
 		<label>Address</label>
